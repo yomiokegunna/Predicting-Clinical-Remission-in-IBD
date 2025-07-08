@@ -24,7 +24,7 @@ Utility functions for preprocessing data, fitting Bayesian Networks, and evaluat
 results_bn.md :
 Summary of key findings and performance metrics for both Expert and Data-driven Bayesian Networks.
 
-. Machine Learning Models (machine_learning_models/)
+2. Machine Learning Models (machine_learning_models/)
 This directory focuses on the implementation and evaluation of traditional machine learning models, including Naïve Bayes, Logistic Regression, and XGBoost.
 
 Key Files and Scripts
