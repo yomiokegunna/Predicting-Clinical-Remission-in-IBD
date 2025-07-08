@@ -52,7 +52,7 @@ Comorbidity Index Calculation : Using predefined weights to compute the Charlson
 Medication Usage Encoding : Categorizing medication usage as binary indicators or NaN for missing values.
 Handling Missing Values : Mode imputation for categorical features and SMOTENC for addressing class imbalance.
 Feature Engineering : Deriving features such as Harvey-Bradshaw Index (HBI), age groups, and EIM scores.
-The preprocessing scripts are shared across both directories and can be found in the preprocessing/ folder.
+The preprocessing scripts are shared across both directories and can be found in the preprocessing section.
 
 Results and Metrics
 Performance metrics for all models are reported in their respective directories:
